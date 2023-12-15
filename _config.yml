@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "George T. Goranitis"
 title_separator          : "-"
 name                     : &name "George T. Goranitis"
 description              : &description "personal description"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "George Goranitis"
   avatar           : "Oz <3.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "What can I put here?"
   location         : "Ohio, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "georgegoranitis333@outlook.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
