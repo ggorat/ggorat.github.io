@@ -16,10 +16,10 @@ main:
 #    url: /year-archive/
     
   - title: "Resume"
-    url: /cv/
+    url: /resume/
 
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
     
 # - title: "Guide"
 #    url: /markdown/
