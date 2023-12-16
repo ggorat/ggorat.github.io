@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Who am I?"
+title: "A little about me:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,7 +18,7 @@ Paragraph here
 ======
 More filler
 
-More Paragraph
+More Paragraph (Kinda middle one)
 ------
 Even more filler
 ------
@@ -26,7 +26,7 @@ One more time
 
 **Sub-paragraph**
 
-Filler.
+Filler for said subparagraph.
 
 Last paragraph
 ------
