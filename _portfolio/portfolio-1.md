@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Beginning with Computer Vision"
+excerpt: "Creating a neural network from scratch, then using it with the MNIST data set to learn the basics of computer vision<br/><img src='/images/MNIST.png'>"
 collection: portfolio
 ---
 
