@@ -12,4 +12,4 @@ This post will follow my thought process and learnings while creating a neural n
 
 To begin, I needed to understand the fundamentals and mathematical approach to designing a neural network. For this project, 3 layers were used... an intial input layer (layer 1), first hidden layer (layer 2), and an output layer (layer 3). Adding more layers to this such as a second hidden layer can increase the accuracy of the model, so that may be something I come back to in the future to try out, but for now, 3 layers it is. Okay, so I now understood the "layout" of the network but how does this correlate to anything I have seen AI do? Answer is: forward proposition, backwards proposition, and updating the weights and biases.<br/>
 Continue here***Testing code blocks
-https://github.com/ggorat/miNeuralNetwork/blob/2d552c9d5615f450471d7538a3f377e3617da531/miNN.py#L59-L64?plain=1
+https://github.com/ggorat/miNeuralNetwork/blob/2d552c9d5615f450471d7538a3f377e3617da531/miNN.py#L59-L64
