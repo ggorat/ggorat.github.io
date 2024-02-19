@@ -16,7 +16,7 @@ main:
 #    url: /year-archive/
     
   - title: "Resume"
-    url: C:\Users\georg\Desktop\MeMakeWeb\ggorat.github.io\files\GeorgeTGoranitis_Resume.pdf
+    url: /files/GeorgeTGoranitis_Resume.pdf
 
   - title: "Projects"
     url: /projects/
