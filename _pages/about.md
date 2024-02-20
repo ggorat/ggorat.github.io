@@ -19,4 +19,5 @@ Hobbies
 Not too sure how interesting a hobby section is these days but I'll keep it brief while also giving a pretty good insight into who I am as a person. I'm a nerd. Besides the usual, enjoy taking the dog for walks, hanging out with friends and family, I am a passionate consumer of games. I'd like to say I enjoy MMOs the most, I kinda missed out on the WoW wave and we all know how that genre has looked since. Currently I try anything competitive, Valorant in specific (peaked Immortal 1), I have to brag a little on my own site right? I also used to attend various East Coast, U.S. LANs for Call of Duty with some decent placements. 
 
 **TL;DR** 
+======
 Big nerd who min-maxes games for fun.
