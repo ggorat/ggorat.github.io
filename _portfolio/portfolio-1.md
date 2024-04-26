@@ -1,15 +1,15 @@
 ---
-title: "Beginning with Computer Vision"
-excerpt: "Creating a neural network from scratch, then using it with the MNIST data set to learn the basics of computer vision. <br/><img src='/images/MNIST.png'>"
+title: "Database Engineering Capstone"
+excerpt: "Creating database model diagrams, implementing them into SQL Server, connecting to the database through Python to create a database client, and using the data to provide a brief visual analysis with Tableu. <br/><img src='ggorat.github.io/images/Coursera HUBCBAC3BM7L.pdf'>"
 collection: portfolio
 ---
 
-This post will follow my thought process and learnings while creating a neural network and then running the MNIST data set through it. A few quick disclaimers: <br/>
-1. The data set used is publicly available on Kaggle.com. <br/>
-2. I decided to start this project after seeing a video on YouTube, by creator, Samson Zhang. Link to video [here](https://www.youtube.com/watch?v=w8yWXqWQYmU&list=LL&index=17&t=580s).<br/>
-3. This is my first project centered around AI, and although I have a CS degree a lot of the extensions and features I used throughout this project I had little to no experience with(crazy I know but never needed it for class) such as Git, matplotlib, numpy, or pandas.<br/>
-4. All necessary files will be available on my [GitHub](https://github.com/ggorat/miNeuralNetwork).<br/>
+This capstone project was a good comprehensive overview of all the subject matter taught throughout this certificate. I started off using MySQL Workbench to create a server. From there I created a new model for the project that was in accordance with 1NF, 2NF, and 3NF. Using the forward engineering feature, the schema was created.<br/>
 
-To begin, I needed to understand the fundamentals and mathematical approach to designing a neural network. For this project, 3 layers were used... an intial input layer (layer 1), first hidden layer (layer 2), and an output layer (layer 3). Adding more layers to this such as a second hidden layer can increase the accuracy of the model, so that may be something I come back to in the future to try out, but for now, 3 layers it is. Okay, so I now understood the "layout" of the network but how does this correlate to anything I have seen AI do? Answer is: forward proposition, backwards proposition, and updating the weights and biases.<br/>
-Continue here***Testing code blocks
-https://github.com/ggorat/miNeuralNetwork/blob/2d552c9d5615f450471d7538a3f377e3617da531/miNN.py#L59-L64
+From there I populated the tables with a slightly altered dataset given in an earlier course of this program. Once the data was in, I began creating prepared statements and stored procedures to help the "company" retrieve the necessary data.<br/>
+
+Finally, using Jupyter noteboook I connected the database with Python using the MySQL/Python connector for a couple of use cases. To be honest this was actually gone over in way more depth in another project that I did. After doing this, the data was uploaded to Tableau to create a few worksheets and dashboard. This was using a different dataset, I assume just so that it was more complete.<br/>
+
+The link to see all my code and screenshots throughout this project are posted [here](https://github.com/ggorat/db-capstone-project.git).<br/>
+
+This [link](https://coursera.org/share/2d28f7dfb1f33a44bcfea372d57fcd6e) will take you to the certificate for verification.
