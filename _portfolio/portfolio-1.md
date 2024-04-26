@@ -1,6 +1,6 @@
 ---
 title: "Database Engineering Capstone"
-excerpt: "Creating database model diagrams, implementing them into SQL Server, connecting to the database through Python to create a database client, and using the data to provide a brief visual analysis with Tableu. <br/><img src='ggorat.github.io/images/Coursera HUBCBAC3BM7L.pdf'>"
+excerpt: "Creating database model diagrams, implementing them into SQL Server, connecting to the database through Python to create a database client, and using the data to provide a brief visual analysis with Tableu. <br/>"
 collection: portfolio
 ---
 
